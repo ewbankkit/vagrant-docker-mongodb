@@ -1,10 +1,6 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
-#
-# Copyright (C) Capital One Labs.
-#
-
 Vagrant.configure("2") do |config|
   config.vm.box_check_update = false
 

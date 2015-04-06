@@ -1,7 +1,3 @@
-#
-# Copyright (C) Capital One Labs.
-#
-
 # MongoDB.      
 mongodb:
     image: "mongo:3.0.1"
