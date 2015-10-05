@@ -27,6 +27,7 @@ Vagrant.configure("2") do |config|
     # Download from Atlas.
     # Ubuntu 14.04 LTS 64-bit server with Puppet.
     e.vm.box = "puppetlabs/ubuntu-14.04-64-puppet"
+    e.vm.box_version = "1.0.1"
 
     e.vm.hostname = "mongodb-in-a-box"
 

@@ -1,5 +1,5 @@
 # MongoDB.      
 mongodb:
-    image: "mongo:3.0.1"
+    image: "mongo:3.0.6"
     ports:
         - "27017:27017"
